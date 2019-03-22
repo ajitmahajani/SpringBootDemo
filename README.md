@@ -9,10 +9,14 @@ It's a simple java application using SpringBoot. This code was used for internal
 - This code is also containerized and can be run in the docker. The link to directly run in Docker is [here](https://hub.docker.com/r/ajitmahajani/springbootdemo)
 
 ```
-IMPORTANT
-- Please update the docker handle and repository (line #64) in pom.xml before build.
-- For docker build and push use goals dockerfile:build and dockerfile:push in maven
+IMPORTANT:
+Please update the docker handle and repository (line #64) in pom.xml before build.
 ```
+
+# How to build
+It's a maven project. So just need to run the standard maven commands.
+For docker build and push use goals dockerfile:build and dockerfile:push in maven
+Note: Docker needs to be installed on the machine wherer the build is happening.
 
 ## Contributors
 Thanks to 
