@@ -10,7 +10,8 @@ It's a simple java application using SpringBoot. This code was used for internal
 
 ```
 IMPORTANT
-Please update the docker handle and repository (line #64) in pom.xml before build.
+- Please update the docker handle and repository (line #64) in pom.xml before build.
+- For docker build and push use goals dockerfile:build and dockerfile:push in maven
 ```
 
 ## Contributors
