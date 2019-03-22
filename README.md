@@ -8,6 +8,10 @@ It's a simple java application using SpringBoot. This code was used for internal
 - Currently provides APIs to list and add entity called company
 - This code is also containerized and can be run in the docker. The link to directly run in Docker is [here](https://hub.docker.com/r/ajitmahajani/springbootdemo)
 
+```
+IMPORTANT
+Please update the docker handle and repository (line #64) in pom.xml before build.
+```
 
 ## Contributors
 Thanks to 
