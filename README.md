@@ -14,9 +14,9 @@ Please update the docker handle and repository (line #64) in pom.xml before buil
 ```
 
 # How to build
-It's a maven project. So just need to run the standard maven commands.
-For docker build and push use goals dockerfile:build and dockerfile:push in maven
-Note: Docker needs to be installed on the machine wherer the build is happening.
+-    It's a maven project. So just need to run the standard maven commands.
+-    For docker build and push use goals dockerfile:build and dockerfile:push in maven
+-    Note: Docker needs to be installed on the machine wherer the build is happening.
 
 ## Contributors
 Thanks to 
