@@ -22,4 +22,4 @@ Please update the docker handle and repository (line #64) in pom.xml before buil
 Thanks to 
 -    `Amol Dixit`  for initializing the project and providing basic skeleton
 -    `Atul Mahajan`  for extending it to build the REST APIs and H2 database related back-end
--    `Ajit Mahajani` for containerization and documenting
+-    `Ajit Mahajani` for containerization and documenting and extending
