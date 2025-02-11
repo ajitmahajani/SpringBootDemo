@@ -1,5 +1,5 @@
 FROM openjdk:8-jre
-MAINTAINER Ajit MAhajani <ajit.mahajani@xoriant.com>
+MAINTAINER Ajit MAhajani <ajit_mahajani@yahoo.com>
 
 ENTRYPOINT ["java", "-Djava.security.egd=file:/dev/./urandom", "-jar", "/usr/share/myservice/xordemo.jar"]
 
